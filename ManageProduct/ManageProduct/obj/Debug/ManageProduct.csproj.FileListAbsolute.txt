@@ -1,0 +1,12 @@
+D:\New folder\IT\ManageProduct\ManageProduct\bin\Debug\ManageProduct.exe.config
+D:\New folder\IT\ManageProduct\ManageProduct\bin\Debug\ManageProduct.exe
+D:\New folder\IT\ManageProduct\ManageProduct\bin\Debug\ManageProduct.pdb
+D:\New folder\IT\ManageProduct\ManageProduct\obj\Debug\ManageProduct.csproj.AssemblyReference.cache
+D:\New folder\IT\ManageProduct\ManageProduct\obj\Debug\ManageProduct.csproj.SuggestedBindingRedirects.cache
+D:\New folder\IT\ManageProduct\ManageProduct\obj\Debug\ManageProduct.ProductManagement.resources
+D:\New folder\IT\ManageProduct\ManageProduct\obj\Debug\ManageProduct.Properties.Resources.resources
+D:\New folder\IT\ManageProduct\ManageProduct\obj\Debug\ManageProduct.csproj.GenerateResource.cache
+D:\New folder\IT\ManageProduct\ManageProduct\obj\Debug\ManageProduct.csproj.CoreCompileInputs.cache
+D:\New folder\IT\ManageProduct\ManageProduct\obj\Debug\ManageProduct.exe
+D:\New folder\IT\ManageProduct\ManageProduct\obj\Debug\ManageProduct.pdb
+D:\New folder\IT\ManageProduct\ManageProduct\obj\Debug\ManageProduct.Login.resources
